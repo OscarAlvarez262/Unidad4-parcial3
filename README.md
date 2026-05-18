@@ -34,13 +34,7 @@ Unidad4-parcial3/
 │── Packages/
 │── CSV/
 │── README.md
-🚀 Cómo ejecutar el proyecto
-Clona este repositorio:
-git clone https://github.com/OscarAlvarez262/Unidad4-parcial3.git
-Abre Unity Hub.
-Selecciona Open Project y abre la carpeta del proyecto.
-Espera a que Unity importe los archivos necesarios.
-Ejecuta la escena principal desde Unity.
+
 📖 Requisitos
 Unity 2021 o superior
 Visual Studio
