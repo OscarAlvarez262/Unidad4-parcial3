@@ -1,0 +1,17 @@
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\bin\Debug\net8.0-windows\Practica1p3.exe
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\bin\Debug\net8.0-windows\Practica1p3.deps.json
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\bin\Debug\net8.0-windows\Practica1p3.runtimeconfig.json
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\bin\Debug\net8.0-windows\Practica1p3.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\bin\Debug\net8.0-windows\Practica1p3.pdb
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.Form1.resources
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.csproj.GenerateResource.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.AssemblyInfoInputs.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.AssemblyInfo.cs
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\refint\Practica1p3.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.pdb
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.genruntimeconfig.cache
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\ref\Practica1p3.dll
+C:\Users\oscar\Dropbox\UNIVERSIDAD\Cuarto semestre\Administracion de datos\Tercer Parcial\Unidad 4\Practica1p3\Practica1p3\obj\Debug\net8.0-windows\Practica1p3.crud.resources
